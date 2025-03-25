@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+gamepy/
+
+# Ignore the __pycache__ files
+__pycache__/
+
+# Ignore the temporary files
+*.pyc
+.DS_Store
